@@ -8,7 +8,6 @@
  * @invite dHaSxn3
  */
 /* IMPORT CSS */
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower:wght@100;300;400;500;700&display=swap');
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
 @import url("https://clearvision.github.io/ClearVision-v7/vencord.css");
 /* SETTINGS */
@@ -40,7 +39,7 @@
   /* HOME ICON */
   --home-icon: url(https://clearvision.github.io/icons/discord.svg);
   /* FONTS */
-  --main-font: "Indie Flower", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --main-font: "Arial", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
   --code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
 }
 
